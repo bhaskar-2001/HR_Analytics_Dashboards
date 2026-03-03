@@ -21,12 +21,12 @@ The objective of this project was to:
 ## 📊 Dashboard Preview
 
 ### 🔹 Power BI Overview
-<img src="Screenshots/powerbi_dashboard.png" width="900">
+<img src="Screenshots/powerbi_dashboard.jpeg" width="900">
 
 ---
 
 ### 🔹 Excel Overview
-<img src="Screenshots/excel_dashboard.png" width="900">
+<img src="Screenshots/excel_dashboard.jpeg" width="900">
 ## 2️⃣ Project Objective
 
 -------------------------------------------------------------------------------
